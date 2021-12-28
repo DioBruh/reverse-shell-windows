@@ -49,3 +49,16 @@ Você vai precisar de 2 máquinas.
 * Inicie o `arquivo` <a href="https://github.com/DioBruh/backdoor-windows/blob/main/main.rb">main.rb</a>Na maquina alvo.<br>
 * Inicie uma `escuta` no seu pc escutando a porta 4444 com o comando ```nc -lvnp 4444```
 * Aguarde a `Conexão` ser efetuada.
+
+## 🤝 Colaboradores.
+<table>
+    <td align="center">
+      <a href="https://github.com/DioBruh/">
+        <img src="https://github.com/OnlyFalopas/falopas-painel/blob/main/devs/87872423.jpg" width="100px;" alt="Foto do DIO"/><br>
+        <sub>
+          <b>Dio Brando</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
