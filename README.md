@@ -24,7 +24,7 @@
 `Clone` o repositorio usando:
 
 ```
-git clone https://github.com/DioBruh/reverse-shell/
+git clone https://github.com/DioBruh/backdoor-windows
 ```
 
 <span>Exporte o ip da maquina atacante para esta linha no arquivo <a href="https://github.com/DioBruh/backdoor-windows/blob/main/main.rb">main.rb</a></span>
