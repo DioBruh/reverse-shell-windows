@@ -1,4 +1,4 @@
-# 🦑 backdoor-windows
+# 🦑 Backdoor-windows
  
 ![GitHub repo size](https://img.shields.io/github/repo-size/DioBruh/backdoor-windows?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/DioBruh/backdoor-windows?style=for-the-badge)
@@ -16,26 +16,25 @@
 
 > Simple backdoor with 0% windows detection
   
-## 💻 Pré-requisitos
-* Ultima versão do `Windows`
-* Ultima versão do `Ruby` instalado.
+## 💻 Requirements
+* Latest `Ruby` version.
   
-  ## ☕ Utilização
-`Clone` o repositorio usando:
+  ## ☕ Using
+`Clone` the repository using:
 
 ```
 git clone https://github.com/DioBruh/backdoor-windows
 ```
 
-<span>Exporte o ip da maquina atacante para esta linha no arquivo <a href="https://github.com/DioBruh/backdoor-windows/blob/main/main.rb">main.rb</a></span>
+<span>Export attacker ip in <a href="https://github.com/DioBruh/backdoor-windows/blob/main/main.rb">main.rb</a></span>
 
 ```ruby
-RHOST = '' # Aqui o seu ip.
+RHOST = '' # Hacker ip.
 ```
 
-<span>Caso você não saiba seu ip. Para pegar o ip da maquina:"</span>
+<span>If you don't know your ip, use:"</span>
 
-```bash
+```powershell
 ifconfig
 ```
   
@@ -43,14 +42,13 @@ ifconfig
   <img src="https://github.com/DioBruh/reverse-shell/blob/main/images/ifconfig.png" width="600px;">
 </p>
 
-## 💻 Inicio
-Você vai precisar de 2 máquinas.
+## 💻 Init
 
-* Inicie o `arquivo` <a href="https://github.com/DioBruh/backdoor-windows/blob/main/main.rb">main.rb</a>Na maquina alvo.<br>
-* Inicie uma `escuta` no seu pc escutando a porta 4444 com o comando ```nc -lvnp 4444```
-* Aguarde a `Conexão` ser efetuada.
+* Init `archive` <a href="https://github.com/DioBruh/backdoor-windows/blob/main/main.rb">main.rb</a>on target machine.<br>
+* Start a `listen` on your pc listening to port 4444 with the command ```nc -lvnp 4444```
+* Wait for `connection`.
 
-## 🤝 Colaboradores.
+## 🤝 Contributors.
 <table>
     <td align="center">
       <a href="https://github.com/DioBruh/">
