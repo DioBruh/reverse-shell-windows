@@ -16,6 +16,8 @@
 
 > Simple backdoor with 0% windows detection
   
+My goal with this is not to black hat and throw around something that will screw someone is literally the opposite is to help you protect yourself 
+
 ## 💻 Requirements
 * Latest `Ruby` version.
   
