@@ -46,7 +46,7 @@ ifconfig
 
 ## 💻 Init
 
-* Init `archive` <a href="https://github.com/DioBruh/backdoor-windows/blob/main/main.rb">main.rb</a>on target machine.<br>
+* Init `archive` <a href="https://github.com/DioBruh/backdoor-windows/blob/main/main.rb">main.rb</a> on target machine.<br>
 * Start a `listen` on your pc listening to port 4444 with the command ```nc -lvnp 4444```
 * Wait for `connection`.
 
