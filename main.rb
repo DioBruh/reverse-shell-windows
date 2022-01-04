@@ -1,4 +1,5 @@
 #educational persistent malware ruby no detection! 
+#sim, so tem 45 linhas, MUITO SEGURO ESSE WINDOWS HEIN MICROSOFT KKKKK
 
 require 'socket'
 require 'etc'
