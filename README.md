@@ -21,7 +21,7 @@ My goal with this is not to black hat and throw around something that will screw
 ## 💻 Requirements
 * Latest `Ruby` version.
   
-  ## ☕ Using
+## ☕ Using
 `Clone` the repository using:
 
 ```
