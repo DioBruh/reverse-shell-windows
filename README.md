@@ -54,7 +54,7 @@ ifconfig
 <table>
     <td align="center">
       <a href="https://github.com/DioBruh/">
-        <img src="https://github.com/OnlyFalopas/falopas-painel/blob/main/devs/87872423.jpg" width="100px;" alt="Foto do DIO"/><br>
+        <img src="https://avatars.githubusercontent.com/u/87872423?v=4" width="100px;" alt="Foto do DIO"/><br>
         <sub>
           <b>Dio Brando</b>
         </sub>
